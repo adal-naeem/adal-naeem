@@ -12,10 +12,10 @@ I am a passionate Frontend Developer dedicated to crafting intelligent and inter
 - **Design:** Figma (UI/UX Design)
 - **Version Control:** Git & GitHub
 - **Specialty:** AI Library Integration (Building Smart Interfaces)
-
+<!--
 ### 📈 GitHub Stats
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adal-naeem&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adal-naeem&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adal-naeem&layout=compact&theme=dark)-->
 
 📫 **How to reach me:** [[Insert your Email/LinkedIn Link](https://www.linkedin.com/in/adil-naeem-aifront-dev/)]##
 
