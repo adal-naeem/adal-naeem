@@ -17,7 +17,7 @@ I am a passionate Frontend Developer dedicated to crafting intelligent and inter
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adal-naeem&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adal-naeem&layout=compact&theme=dark)-->
 
-📫 **How to reach me:** [[Insert your Email/LinkedIn Link](https://www.linkedin.com/in/adil-naeem-aifront-dev/)]##
+📫 **How to reach me:** [(https://www.linkedin.com/in/adil-naeem-aifront-dev/)]
 
 <!--
 **adal-naeem/adal-naeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
